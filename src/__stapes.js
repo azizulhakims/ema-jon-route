@@ -11,3 +11,10 @@ Auth setup
 
 
 */
+
+/*
+Auth
+
+1. Create UserContext(Auth Context): UserContext --> component 
+
+*/
