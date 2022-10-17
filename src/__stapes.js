@@ -17,4 +17,10 @@ Auth
 
 1. Create UserContext(Auth Context): UserContext --> component 
 
+2. create authcontext 
+3. set authcontext provider
+
+4. export auth context
+5. get form data
+6.getAuth in the usercontext
 */
